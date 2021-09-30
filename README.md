@@ -14,3 +14,4 @@
 	
 	There is no bugs that I have faced, but some difficuties to make the gallery look like the gallery of Pixels.com at the beginning. I have spent quite a lot of time, but I realized I could not make without using a javascript framework because the different heights of the images. Long story to short, I just tried to make sure to meet the assignment instructions. In my view, Css is all about look and feel and it requires artistic creativity. In that point, I am not sure that I am good at it. At least, I tried wigh my best.
 	
+	One thing I wanto mention here is that I didn't put min-width into fig-caption because I used Grid system and there is min width already for the columns by using the minmax option. Saying this, because it's in your instruction.
