@@ -1,8 +1,8 @@
 # Course Title: Fall 2021 - Web Page Construction Fund.
 ### Author: Byung Uk An
 ### Links to:
-  - **Github Repo:** https://github.com/byung1211/cpnt260-a1
-  - **Github Pages Site:** https://byung1211.github.io/cpnt260-a1/index.html
+  - **Github Repo:** https://github.com/byung1211/cpnt260-a3
+  - **Github Pages Site:** https://byung1211.github.io/cpnt260-a3/index.html
   
 ### Attributions for code or assets that are not your own
 
